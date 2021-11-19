@@ -1,0 +1,25 @@
+{
+  "name": "falcor-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sayari/falcor-router": "^0.8.4",
+    "express": "^4.17.1",
+    "falcor": "^2.2.0",
+    "io-ts": "^2.2.4",
+    "nodemon": "^2.0.12",
+    "ramda": "^0.27.1",
+    "rxjs": "^6.5.5"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/ramda": "^0.27.50",
+    "ts-node": "^8.2.0"
+  }
+}
